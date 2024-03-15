@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    background-color: #212F3D;
+    font-family: 'Algerian';
+    color:whitesmoke
+}
+#tabla1 {
+    background-color: white;
+    border: 4px ridge;
+    width: 650px;
+    height: 650px;
+    margin: auto;
+}
+.amarillo {
+    width: 84px;
+    height: 22px;
+    border: 2px ridge;
+}
+#casillasA {
+    background-color: yellow;
+}
+.casa_lannister {
+    background-color: yellow;
+    border: 2px ridge;
+    width: 150px;
+    height: 150px;
+}
+#lannister {
+    width: 140px;
+    height: 140px;
+}
+.casa_baratheon {
+    background-color: green;
+    border: 2px ridge;
+    width: 150px;
+    height: 150px;
+}
+#baratheon {
+    width: 140px;
+    height: 140px;
+}
+.casa_bolton {
+    background-color: blue;
+    border: 2px ridge;
+    width: 150px;
+    height: 150px;
+}
+#bolton {
+    width: 140px;
+    height: 140px;
+}
+.casa_stark {
+    background-color: red;
+    border: 2px ridge;
+    width: 150px;
+    height: 150px;
+}
+#stark {
+    width: 140px;
+    height: 140px;
+}
+.rojo {
+    width: 84px;
+    height: 22px;
+    border: 2px ridge;
+}
+#casillasD {
+    background-color: red;
+    border: 2px ridge;
+}
+.azul{
+    width: 22px;
+    height: 84px;
+    border: 2px ridge;
+}
+#casillasB {
+    background-color: blue;
+    border: 2px ridge;
+}
+.verde {
+    width: 22px;
+    height: 84px;
+    border: 2px ridge;
+}
+#casillasC {
+    background-color: green;
+    border: 2px ridge;
+}
+.logogt {
+    width: 215px;
+    height: 250px;
+    border: 2px ridge;
+}
+#logo {
+    align-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 220px;
+    height: 260px;
+}
