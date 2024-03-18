@@ -87,15 +87,12 @@ body {
     border: 2px ridge;
 }
 .logogt {
+    background-color: black;
+    background-image: url(img_parchis/LogoGT.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 215px;
     height: 250px;
     border: 2px ridge;
-}
-#logo {
-    align-content: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    width: 220px;
-    height: 260px;
 }
